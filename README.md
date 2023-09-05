@@ -1,4 +1,4 @@
-# yes_no_app
+# Chat app with API
 
 A new Flutter project.
 
